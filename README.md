@@ -21,7 +21,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-Follow Github url()
+Follow url(https://travisnicholson90.github.io/horiseon-landing-page/#social-media-marketing)
 
 ## Usage
 
